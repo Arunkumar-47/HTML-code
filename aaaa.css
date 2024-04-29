@@ -1,0 +1,19 @@
+.container {
+    background-color:powderblue;
+    background-image:url("https://thumbs.dreamstime.com/b/spring-flowers-blue-crocuses-drops-water-backgro-background-tracks-rain-113784722.jpg");
+    height: 500vh;
+    background-size: cover;
+    background-repeat: repeat-x;
+h1 { 
+    color:red;
+}
+
+p {
+    color:purple;
+}
+.manisha {
+    background-color: pink;
+}
+.manisha {
+    color:blueviolet;
+}

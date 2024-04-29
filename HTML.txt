@@ -1,0 +1,21 @@
+<DOCTYPE html>
+<body>
+<h1> INPUT ARRRIBUTES<h1>
+<form>
+<label for="username"> username:</label><br>
+<input type="text" id="username" name="username"><br>
+<label for="password">password:</label><br>
+<input type="text" id=pwd" name="pwd"><br>
+<input type="submit" value="submit"><br>
+<input type="reset"><br>
+<input type="button" onclick="alert("hello world"!)" value="clickme!"><br>
+<label for="favcolor"> select your favourate color:</label><br>
+<input type="color" id="favcolor" name="favcolor" value="#ff0008"><br>
+<label for="datemax"> enter your date:</label><br>
+<input type="date" id="datemax" name="datemax" value="2002-02-28"><br>
+<label for="email" enter your mail id:</label><br>
+<input type="email" id="email" name="email" value="email"><br>
+<label for "my file"> select ypur file:</label><br>
+<input type=""file" id="myfile" name="myfile">
+</body>
+</form>
